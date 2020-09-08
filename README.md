@@ -2,8 +2,8 @@
 Segmentación automatica de aorta
 
 # Objetivos
-- Realizar una segmentacion de aorta abdominal usando tecnicas de Deep learning.
-- Crear un modelo 3D de la segmentacion generada.
+- Realizar una segmentación de aorta abdominal usando técnicas de Deep learning.
+- Crear un modelo 3D de la segmentación generada.
 - Evaluar distintas arquitecturas de redes neuronales del estado del arte como lo son la Segnet y la Unet.
 
 Video: https://youtu.be/YHSMqp8ORF8
